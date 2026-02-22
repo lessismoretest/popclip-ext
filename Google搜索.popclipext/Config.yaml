@@ -1,0 +1,6 @@
+#popclip
+name: Google搜索
+identifier: com.lessismore.popclip.google-search
+icon: preserve-color file:icon.png
+url: https://www.google.com/search?q=***
+clean query: true

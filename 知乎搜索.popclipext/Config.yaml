@@ -1,0 +1,6 @@
+#popclip
+name: 知乎搜索
+identifier: com.lessismore.popclip.zhihu-search
+icon: preserve-color file:icon.png
+url: https://www.zhihu.com/search?type=content&q=***
+clean query: true

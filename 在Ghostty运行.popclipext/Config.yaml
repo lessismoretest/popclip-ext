@@ -1,0 +1,6 @@
+#popclip
+name: 在Ghostty运行
+identifier: com.lessismore.popclip.run-in-ghostty
+icon: preserve-color file:icon.png
+shell script file: run_in_ghostty.sh
+interpreter: /bin/zsh

@@ -1,0 +1,6 @@
+#popclip
+name: 哔哩哔哩搜索
+identifier: com.lessismore.popclip.bilibili-search
+icon: preserve-color file:icon.png
+url: https://search.bilibili.com/all?keyword=***
+clean query: true

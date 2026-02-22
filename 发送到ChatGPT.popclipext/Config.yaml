@@ -1,0 +1,7 @@
+#popclip
+name: 发送到ChatGPT
+identifier: com.lessismore.popclip.send-to-chatgpt
+title: 发给ChatGPT
+icon: preserve-color file:icon.png
+shell script file: send_to_chatgpt.sh
+interpreter: /bin/zsh

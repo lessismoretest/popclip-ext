@@ -1,0 +1,12 @@
+#popclip
+name: 发送到Telegram
+identifier: com.lessismore.popclip.send-to-telegram
+title: 发给Telegram
+icon: preserve-color file:openclaw.svg
+shell script file: send_to_telegram_bot.sh
+interpreter: /bin/zsh
+options:
+  - identifier: targetusername
+    label: 目标联系人（用户名）
+    type: string
+    default value: xiaolin_clawdbot

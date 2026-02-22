@@ -1,0 +1,6 @@
+#popclip
+name: 百度搜索
+identifier: com.lessismore.popclip.baidu-search
+icon: preserve-color file:icon.png
+url: https://www.baidu.com/s?wd=***
+clean query: true

@@ -1,0 +1,6 @@
+#popclip
+name: 小红书搜索
+identifier: com.lessismore.popclip.xiaohongshu-search
+icon: preserve-color file:icon.png
+url: https://www.xiaohongshu.com/search_result/?keyword=***
+clean query: true

@@ -1,0 +1,6 @@
+#popclip
+name: 在终端运行
+identifier: com.lessismore.popclip.run-in-terminal
+icon: symbol:terminal
+shell script file: run_in_terminal.sh
+interpreter: /bin/zsh

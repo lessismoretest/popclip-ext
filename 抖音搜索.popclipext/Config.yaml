@@ -1,0 +1,6 @@
+#popclip
+name: 抖音搜索
+identifier: com.lessismore.popclip.douyin-search
+icon: preserve-color file:icon.png
+url: https://www.douyin.com/root/search/***
+clean query: true

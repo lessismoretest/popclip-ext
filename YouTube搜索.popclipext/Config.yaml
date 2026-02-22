@@ -1,0 +1,6 @@
+#popclip
+name: YouTube搜索
+identifier: com.lessismore.popclip.youtube-search
+icon: preserve-color file:icon.png
+url: https://www.youtube.com/results?search_query=***
+clean query: true
