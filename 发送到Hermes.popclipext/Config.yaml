@@ -1,0 +1,7 @@
+#popclip
+name: 发送到Hermes
+identifier: com.lessismore.popclip.send-to-hermes
+title: 发给Hermes
+icon: preserve-color file:hermes.png
+shell script file: send_to_hermes.sh
+interpreter: /bin/zsh
